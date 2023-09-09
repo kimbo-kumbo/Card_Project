@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fe76b2bf53684dd4db704cee919282bd
+  - enabled: 1
+    path: Assets/Scenes/DeckColection.unity
+    guid: 60ec3c3b32232dc49a1b4308a45965c4
+  - enabled: 1
+    path: Assets/Scenes/ChooseHero.unity
+    guid: 3359ccae9d6e063489e63e95958601be
+  - enabled: 1
+    path: Assets/Scenes/BattleScene1.unity
+    guid: 8d7682932bd672f49ae08e56f7ec05f9
+  m_configObjects: {}

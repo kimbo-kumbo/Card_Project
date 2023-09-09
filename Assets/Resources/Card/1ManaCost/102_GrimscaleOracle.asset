@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dee55dcfac7782f4e8d1e916ede3753f, type: 3}
+  m_Name: 102_GrimscaleOracle
+  m_EditorClassIdentifier: 
+  _nameCard: "\u041E\u0440\u0430\u043A\u0443\u043B \u0422\u0435\u043C\u043D\u043E\u0439
+    \u0427\u0435\u0448\u0443\u0438"
+  _descriptionCard: "\u0412\u0421\u0415 \u043F\u0440\u043E\u0447\u0438\u0435 \u043C\u0443\u0440\u043B\u043E\u043A\u0438
+    \u043F\u043E\u043B\u0443\u0447\u0430\u044E\u0442 +1 \u043A \u0430\u0442\u0430\u043A\u0435."
+  _idCard: 102
+  _spriteCard: {fileID: 21300000, guid: c83f8c82f5f5ad542b17ed32cba2e41f, type: 3}
+  _manaCostCard: 1
+  _atackDamageCard: 1
+  _healthCard: 1
+  _cardClass: 9
+  _battleCryTypes: 06
+  _abilityInTargetBattleCry: 08000000
+  _targets: 0
+  _targetsType: 1
+  _minionType: 1
+  _isProvocation: 0
+  _isDivineShield: 0
+  _isPermanentEffect: 1
+  _isCharge: 0
+  _isBerserk: 0
+  _isTakeCard: 0
+  _abilityChangeHealth: 0
+  _abilityChangeAtack: 1

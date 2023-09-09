@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dee55dcfac7782f4e8d1e916ede3753f, type: 3}
+  m_Name: 207_River
+  m_EditorClassIdentifier: 
+  _nameCard: "\u0420\u0435\u0447\u043D\u043E\u0439 \u043A\u0440\u043E\u043A\u043E\u043A\u043E\u043B\u0438\u0441\u043A"
+  _descriptionCard: 
+  _idCard: 207
+  _spriteCard: {fileID: 21300000, guid: 5ee37c7bd7df10145a1cb0dff1f1a51c, type: 3}
+  _manaCostCard: 2
+  _atackDamageCard: 2
+  _healthCard: 3
+  _cardClass: 9
+  _battleCryTypes: 
+  _abilityInTargetBattleCry: 
+  _battleCryTargets: 0
+  _battleCryTargetsType: 0
+  _minionType: 2
+  _isProvocation: 0
+  _isDivineShield: 0
+  _isPermanentEffect: 0
+  _isCharge: 0
+  _isBerserk: 0
+  _isTakeCard: 0
+  _abilityChangeHealth: 0
+  _abilityChangeAtackDamage: 0
+  _abilityChangeSpellDamage: 0
+  _abilityAddCardAmount: 0
